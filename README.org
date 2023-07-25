@@ -1,0 +1,10 @@
+* cl-sat
+
+Common Interface to Boolean Satisfiability Solvers from Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/cl-model-languages/cl-sat.git   |
+| commit  | 0afad0b  |
+| systems | cl-sat |
+|---------+-------------------------------------------|
+
